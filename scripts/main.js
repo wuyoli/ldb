@@ -10,4 +10,3 @@ global.ldbTipNo = function(tip, cell) {
 };
 require("ldb/mem");
 require("ldb/proc");
-require("ldb/disp");
